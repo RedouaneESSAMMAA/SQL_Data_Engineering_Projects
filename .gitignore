@@ -1,0 +1,4 @@
+# DuckDB databases
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp
